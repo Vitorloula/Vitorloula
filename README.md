@@ -1,14 +1,5 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🌱 Atualmente estou aprendendo Kotlin com o intuito de aprender sobre o mundo mobile 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Olá 👋
+Olá, meu nome é Vitor Loula Silva, e atualmente estou cursando o bacharelado em Engenharia de Software na Universidade Federal do Ceará. Durante minha trajetória acadêmica, tive a oportunidade de adquirir experiência prática com uma variedade de tecnologias, incluindo C++, C Java e Python, por meio de projetos interdisciplinares envolvendo equipes diversificadas.
 
 ## ⚡️ Stats
 
@@ -27,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEdsouza&theme=transparent&show_icons=true&hide_progress=false&border_radius=10&layout=donut-vertical)](https://github.com/JoseEdSouza/JoseEdSouza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorloula&theme=transparent&show_icons=true&hide_progress=false&border_radius=10&layout=donut-vertical)](https://github.com/Vitorloula/Vitorloula)
 
 
 ## 👨‍💻 Projects
