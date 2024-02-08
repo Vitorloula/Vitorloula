@@ -1,5 +1,5 @@
 ### Olá 👋
-Olá, meu nome é Vitor Loula Silva, e atualmente estou cursando o bacharelado em Engenharia de Software na Universidade Federal do Ceará. Durante minha trajetória acadêmica, tive a oportunidade de adquirir experiência prática com uma variedade de tecnologias, incluindo C++, C Java e Python, por meio de projetos interdisciplinares envolvendo equipes diversificadas.
+Olá, meu nome é Vitor Loula Silva, e atualmente estou cursando o bacharelado em Engenharia de Software na Universidade Federal do Ceará. Durante minha trajetória acadêmica, tive a oportunidade de adquirir experiência prática com uma variedade de tecnologias, incluindo C++, C, Java e Python, por meio de projetos interdisciplinares envolvendo equipes diversificadas.
 
 ## ⚡️ Stats
 
