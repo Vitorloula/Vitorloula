@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 here are some projects that I have been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=finesup&theme=transparent&border_radius=10)](https://github.com/JoseEdSouza/finesup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=pooKotlin&theme=transparent&border_radius=10)](https://github.com/Vitorloula/pooKotlin)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseEdSouza&repo=simpletask&theme=transparent&border_radius=10)](https://github.com/JoseEdSouza/simpletask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Projetos&theme=transparent&border_radius=10)](https://github.com/Vitorloula/Projetos)
 
 ## 📫 How to reach me
 
