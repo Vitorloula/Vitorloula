@@ -29,6 +29,8 @@ here are some projects that I have been working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Projetos&theme=transparent&border_radius=10)](https://github.com/Vitorloula/Projetos)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=fundamentosKotlin&theme=transparent&border_radius=10)](https://github.com/Vitorloula/fundamentosKotlin)
+
 ## 📫 How to reach me
 
 [![Gmail Badge](https://img.shields.io/badge/-Vitor%20Loula-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorloula3@gmail.com)](mailto:vitorloula3@gmail.com)
