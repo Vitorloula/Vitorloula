@@ -25,6 +25,8 @@ Olá, meu nome é Vitor Loula Silva, e atualmente estou cursando o bacharelado e
 
 here are some projects that I have been working on:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=DeliverySite&theme=transparent&border_radius=10)](https://github.com/Vitorloula/DeliverySite)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=pooKotlin&theme=transparent&border_radius=10)](https://github.com/Vitorloula/pooKotlin)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Projetos&theme=transparent&border_radius=10)](https://github.com/Vitorloula/Projetos)
