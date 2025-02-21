@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento de software, especialmente em aplicações **mobile** e **web**. Adoro resolver problemas complexos e criar soluções que impactam positivamente a vida das pessoas. Atualmente, estou me aprofundando em **React**, **Jetpack Compose** e **cloud computing** com **AWS** e **Azure**.
+Sou um entusiasta da tecnologia com foco em desenvolvimento de software, especialmente em aplicações **mobile** e **web**. Atualmente, estou me aprofundando em **React**, **Jetpack Compose** e **cloud computing** com **AWS**.
 
 ---
 
