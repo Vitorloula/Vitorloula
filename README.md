@@ -1,41 +1,128 @@
-### Olá 👋
-Olá, meu nome é Vitor Loula Silva, e atualmente estou cursando o bacharelado em Engenharia de Software na Universidade Federal do Ceará. Durante minha trajetória acadêmica, tive a oportunidade de adquirir experiência prática com uma variedade de tecnologias, incluindo C++, C, Java e Python, por meio de projetos interdisciplinares envolvendo equipes diversificadas.
+# 👋 Olá, seja bem-vindo(a)!
 
-## ⚡️ Stats
+### Sou **Vitor Loula Silva**, estudante de **Engenharia de Software** na Universidade Federal do Ceará.
 
-[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitorloula&show_icons=true&theme=transparent&border_radius=10&count_private=true)](https://github.com/Vitorloula/Vitorloula)
+🔹 Apaixonado por tecnologia, desenvolvimento mobile e soluções criativas.  
+🔹 Tenho experiência prática com **C++, Java, Kotlin, Python e SQL**, além de realizar trabalhos com **React.js e Android (Jetpack Compose)**.  
+🔹 Estou sempre aprendendo e explorando novas tecnologias! 🚀  
 
-## 🛠️ Languages and tools
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🚀 Sobre Mim
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Sou um entusiasta da tecnologia com foco em desenvolvimento de software, especialmente em aplicações **mobile** e **web**. Adoro resolver problemas complexos e criar soluções que impactam positivamente a vida das pessoas. Atualmente, estou me aprofundando em **React**, **Jetpack Compose** e **cloud computing** com **AWS** e **Azure**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorloula&theme=transparent&show_icons=true&hide_progress=false&border_radius=10&layout=donut-vertical)](https://github.com/Vitorloula/Vitorloula)
+---
 
+## 📫 Como me encontrar  
 
-## 👨‍💻 Projects
+<div align="center" style="margin: 0 20px;">
+  <a href="mailto:vitorloula3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-loula">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vitorloula">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-here are some projects that I have been working on:
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=DeliverySite&theme=transparent&border_radius=10)](https://github.com/Vitorloula/DeliverySite)
+## ⚡️ GitHub Stats  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=pooKotlin&theme=transparent&border_radius=10)](https://github.com/Vitorloula/pooKotlin)
+<div align="center" style="margin: 20px;">
+  <a href="https://github.com/Vitorloula/Vitorloula">
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vitorloula&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Vitor Loula's stats" />
+  </a>
+  <a href="https://github.com/Vitorloula/Vitorloula">
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vitorloula&layout=compact&theme=tokyonight" alt="Vitor Loula's stats" />
+  </a>
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Projetos&theme=transparent&border_radius=10)](https://github.com/Vitorloula/Projetos)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=fundamentosKotlin&theme=transparent&border_radius=10)](https://github.com/Vitorloula/fundamentosKotlin)
+## 🛠️ Linguagens e Ferramentas  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Bootcamp-DIO&theme=transparent&border_radius=10)](https://github.com/Vitorloula/Bootcamp-DIO)
+### **Front-End & Mobile**
+<div align="center" style="margin-bottom: 20px; margin: 0 20px;">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C4B3.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
+</div>
 
-## 📫 How to reach me
+### **Back-End & Banco de Dados**
+<div align="center" style="margin-bottom: 20px; margin: 0 20px;">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
 
-[![Gmail Badge](https://img.shields.io/badge/-Vitor%20Loula-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorloula3@gmail.com)](mailto:vitorloula3@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Loula-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-jose-souza)](https://www.linkedin.com/in/vitor-loula)
+### **Ferramentas e Metodologias**
+<div align="center" style="margin-bottom: 20px; margin: 0 20px;">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-%2300A3E0.svg?style=for-the-badge&logo=scrum&logoColor=white"/>
+</div>
+
+---
+
+## 👨‍💻 Projetos em Destaque  
+
+### **Front-End e Mobile**
+<div align="center" style="margin: 0 20px;">
+  <a href="https://github.com/Vitorloula/DeliverySite">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=DeliverySite&theme=dark&border_radius=10"/>
+  </a>
+  <a href="https://github.com/Vitorloula/connectdeaf-mobile">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=connectdeaf-mobile&theme=dark&border_radius=10"/>
+  </a>
+</div>
+
+### **Outros Projetos**
+<div align="center" style="margin: 0 20px;">
+  <a href="https://github.com/Vitorloula/Projetos">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Projetos&theme=dark&border_radius=10"/>
+  </a>
+  <a href="https://github.com/Vitorloula/Bootcamp-DIO">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=Bootcamp-DIO&theme=dark&border_radius=10"/>
+  </a>
+</div>
+
+---
+
+## 🌟 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitorloula&theme=github-dark&border_radius=10&area=true&hide_border=true" width="90%"/>
+</div>
+
+---
+
+## 📊 Estatísticas de Contribuição
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitorloula&theme=github_dark" width="100%"/>
+</div>
+
+---
+
+## 🎉 Obrigado por visitar!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200"/>
+</div>
+
+---
