@@ -86,7 +86,10 @@ Sou um entusiasta da tecnologia com foco em desenvolvimento de software, especia
   <a href="https://github.com/Vitorloula/DeliverySite">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=DeliverySite&theme=dark&border_radius=10"/>
   </a>
-  <a href="https://github.com/Vitorloula/connectdeaf-mobile">
+   <a href="https://github.com/Vitorloula/financinhas-time05-pi1">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=financinhas-time05-pi1&theme=dark&border_radius=10"/>
+  </a>
+    <a href="https://github.com/Vitorloula/connectdeaf-mobile">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vitorloula&repo=connectdeaf-mobile&theme=dark&border_radius=10"/>
   </a>
 </div>
