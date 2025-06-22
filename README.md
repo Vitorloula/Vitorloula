@@ -2,7 +2,6 @@
 
 ### Sou **Vitor Loula Silva**, estudante de **Engenharia de Software** na Universidade Federal do Ceará.  
 
-🔹 Apaixonado por tecnologia, desenvolvimento mobile e soluções criativas.  
 🔹 Tenho experiência prática com **C++, Java, Kotlin, Python e SQL**, além de trabalhar com **React.js, Android (Jetpack Compose), Firebase e AWS**.  
 🔹 Estou sempre aprendendo e explorando novas tecnologias! 🚀  
 
